@@ -2,6 +2,11 @@
 title: my-fist-post
 summary: a test summary
 date: 2024-4-4
+authors:
+  - admin
+tags:
+  - Second Brain
+  - Markdown
 ---
 
 # Head1
@@ -14,6 +19,7 @@ $$
 f(x) = \sum_{i=1}^n i
 $$
 
+试试中文
 
 ```c
 int main() {
