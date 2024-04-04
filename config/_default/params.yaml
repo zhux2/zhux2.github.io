@@ -46,10 +46,10 @@ header:
     #   # Logo filename in `assets/media/` folder
     #   filename: "logo.svg"
     # Shop a call-to-action button in the top right?
-    button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+    # button:
+    #   enable: true
+    #   text: "Get Started"
+    #   url: "https://hugoblox.com/templates/"
     # Let the user choose between light or dark mode?
     show_theme_chooser: true
     # Let the user search from the navigation bar?
